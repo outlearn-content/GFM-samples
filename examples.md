@@ -113,6 +113,10 @@ That's some text with a footnote.[^1]
 
 [^1]: And that's the footnote.
 
+Clicking this number[^fn-sample_footnote] will lead you to a footnote.
+
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
+
 
 #### Strikethrough
 
