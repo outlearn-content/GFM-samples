@@ -97,7 +97,9 @@ You can use a subset of HTML within your READMEs, issues, and pull requests. A f
 
 #### Regular code highlighting
 
-`` Code here to be read ``
+`Code with single backtick`
+
+    Indented code here to be read
 
 A single backtick in a code span: `` ` ``
 
